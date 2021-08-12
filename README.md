@@ -8,6 +8,10 @@ This is example to show diff parts of a Git repo, and various commands in a web 
 
 ## Purpose
 
+As stated, the main purpose is to provide simple exercises for Git training.
+
 ## Deployment
+
+This is a simple web project, deployment can be on any web server or file system. 
 
 ## How To Contribute
